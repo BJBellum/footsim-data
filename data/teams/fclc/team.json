@@ -40,19 +40,19 @@
   ],
   "tactics": {
     "style": "direct",
-    "formation": "3-4-3",
+    "formation": "4-3-2-1",
     "lineup": [
       "2495dbfd-b6c9-4f52-9f81-a4d0a0ae4516",
+      "09450d41-e046-49ca-b7e3-18a888fdbaff",
       "f7316f69-a58e-4178-94a8-4ed4f00d4757",
       "d2fb304f-c2d2-4081-a61a-c098ba0f78d2",
-      "515d18a4-6190-44b8-b402-9091c6fd4e7f",
-      "cf31d242-7d19-4c2c-a518-ffcedd0aac51",
+      "34913eb7-c685-47f4-9276-331f470037f2",
       "7df52e8f-e721-4741-bab7-cb348e9dcc68",
       "91b0167e-1771-4af2-839c-8a5f82bd1274",
-      "0cbaa27d-847a-4a18-9e4b-bf5826d12adf",
-      "e3b7ec28-d8a4-40b4-a12e-0f9b119a3b42",
-      "892948fc-f22f-48f4-b6af-6ebeaa6db607",
-      "a061fca0-c49f-4270-99e7-45b7b613663f"
+      "903ec461-2eb8-440f-bdfd-229bf9be85ed",
+      "1e3a0a8c-ae55-480c-a424-3d472cbdd381",
+      "07c3f9ca-f46a-4d28-a059-6dc2e307d4ea",
+      "892948fc-f22f-48f4-b6af-6ebeaa6db607"
     ]
   }
 }
