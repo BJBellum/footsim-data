@@ -25,5 +25,16 @@
       "1cc5d791-1cbe-4f95-bbae-1663383f2dbf",
       "3d2b0daa-4b76-4e96-82b7-05f680b31db5"
     ]
-  }
+  },
+  "recentMatches": [
+    {
+      "matchId": "b5df2f4e-f653-4e5e-a7e0-f8795f74061b",
+      "playedAt": "2026-04-30T15:13:08.023Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1
+    }
+  ]
 }
