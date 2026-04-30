@@ -8,5 +8,16 @@
   "createdAt": "2026-04-30T02:03:19.138Z",
   "createdBy": "772821169664426025",
   "playerCount": 500,
-  "formation": "4-3-3"
+  "formation": "4-3-3",
+  "recentMatches": [
+    {
+      "matchId": "441395b9-0873-46df-946c-c6d759c784e0",
+      "playedAt": "2026-04-30T02:10:53.880Z",
+      "opponentSlug": "test",
+      "opponentName": "Test",
+      "homeAway": "away",
+      "scoreFor": 0,
+      "scoreAgainst": 1
+    }
+  ]
 }
