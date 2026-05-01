@@ -30,7 +30,13 @@
       "round": 2,
       "phase": "league",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "matchFileId": "comp-kimpcucztimomuqfhq-cedt8zlfmomuqfhq",
+      "simulatedAt": "2026-05-01T11:53:51.596Z"
     },
     {
       "id": "fwg993f4momuqfhq",
@@ -45,12 +51,12 @@
   "standings": {
     "ca9439ef-f9f3-4ec5-8073-0f62660aa497": {
       "teamId": "ca9439ef-f9f3-4ec5-8073-0f62660aa497",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
+      "lost": 1,
       "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsAgainst": 1,
       "points": 0
     },
     "4050e7b8-0b32-4225-b936-2947890e501c": {
@@ -65,13 +71,13 @@
     },
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
       "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "played": 1,
-      "won": 1,
+      "played": 2,
+      "won": 2,
       "drawn": 0,
       "lost": 0,
-      "goalsFor": 1,
+      "goalsFor": 2,
       "goalsAgainst": 0,
-      "points": 3
+      "points": 6
     }
   },
   "config": {
@@ -85,7 +91,7 @@
       "penalties": false
     }
   },
-  "currentRound": 2,
+  "currentRound": 3,
   "status": "ongoing",
   "createdAt": "2026-05-01T11:51:03.663Z"
 }
