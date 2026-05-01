@@ -15,7 +15,13 @@
       "round": 1,
       "phase": "league",
       "leg": 1,
-      "status": "pending"
+      "status": "completed",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "matchFileId": "comp-xl1llk2qm5omomv43fs-76um23x2momv43fs",
+      "simulatedAt": "2026-05-01T12:02:10.141Z"
     },
     {
       "id": "ukml4diimomv43fs",
@@ -76,23 +82,23 @@
     },
     "4050e7b8-0b32-4225-b936-2947890e501c": {
       "teamId": "4050e7b8-0b32-4225-b936-2947890e501c",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 1
     },
     "c1a00454-3cc7-46dd-8ec3-a2abb527eba9": {
       "teamId": "c1a00454-3cc7-46dd-8ec3-a2abb527eba9",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "goalsFor": 0,
       "goalsAgainst": 0,
-      "points": 0
+      "points": 1
     }
   },
   "config": {
@@ -106,7 +112,7 @@
       "penalties": false
     }
   },
-  "currentRound": 1,
+  "currentRound": 2,
   "status": "ongoing",
   "createdAt": "2026-05-01T12:01:41.224Z"
 }
