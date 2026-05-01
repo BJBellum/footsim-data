@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "73wd70yv799mon00hum",
+    "name": "test",
+    "format": "league",
+    "status": "ongoing",
+    "teamCount": 3,
+    "createdAt": "2026-05-01T14:18:51.359Z"
+  }
+]
