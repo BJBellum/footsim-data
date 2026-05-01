@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "f2e4e186-9868-40a2-a823-902c04cf8f85",
+      "playedAt": "2026-05-01T11:50:33.177Z",
+      "opponentSlug": "empire-hussein",
+      "opponentName": "Empire Hussein",
+      "homeAway": "away",
+      "scoreFor": 1,
+      "scoreAgainst": 0
+    },
+    {
       "matchId": "d8b2e843-1a2f-4f9b-a2f3-6afc883d8111",
       "playedAt": "2026-04-30T14:19:52.260Z",
       "opponentSlug": "empire-hussein",
