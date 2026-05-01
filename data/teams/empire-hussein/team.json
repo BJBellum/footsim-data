@@ -11,6 +11,15 @@
   "formation": "4-3-3",
   "recentMatches": [
     {
+      "matchId": "comp-kimpcucztimomuqfhq-cedt8zlfmomuqfhq",
+      "playedAt": "2026-05-01T11:53:49.197Z",
+      "opponentSlug": "yamatai",
+      "opponentName": "Yamatai",
+      "homeAway": "home",
+      "scoreFor": 0,
+      "scoreAgainst": 1
+    },
+    {
       "matchId": "f2e4e186-9868-40a2-a823-902c04cf8f85",
       "playedAt": "2026-05-01T11:50:33.177Z",
       "opponentSlug": "fclc",
